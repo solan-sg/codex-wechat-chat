@@ -1,0 +1,3 @@
+interface:
+  display_name: "Codex 微信聊天"
+  short_description: "让 Codex 接管 Windows 微信联系人聊天并自动回复"
